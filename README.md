@@ -16,6 +16,8 @@ Las entidades que vamos a usar son:
 - images
 - permisos
 Ver el Diagrama de la BD.[¹] 
+--- 
+
 [¹]: Ir a la carpeta /diagrama en la carpeta principal.
 
 
